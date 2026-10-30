@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sergey Galkin
 - 👀 I’m interested in new opportunities
 - 🌱 I’m currently learning QA engineering
-- 📫 How to reach me galkin.sd91@gmail.com or telegram:@SergeyGalkin91
+- 📫 How to reach me galkin.sd91@gmail.com or telegram:@eto_gal
